@@ -1,0 +1,36 @@
+{
+  "ticker": "TCS.NS",
+  "ticker_2": null,
+  "intent": "price_check",
+  "user_id": "test_user",
+  "stock_data": {
+    "price_data": {
+      "ticker": "TCS.NS",
+      "name": "Tata Consultancy Services Limited",
+      "current_price": 3192.5,
+      "change": -75.5,
+      "change_percent": -2.31,
+      "volume": 3538555,
+      "day_high": 3260.0,
+      "day_low": 3183.0,
+      "previous_close": 3268.0
+    },
+    "ticker": "TCS.NS"
+  },
+  "stock_data_2": null,
+  "news_data": null,
+  "market_data": null,
+  "fundamental_analysis": null,
+  "fundamental_analysis_2": null,
+  "technical_analysis": null,
+  "technical_analysis_2": null,
+  "market_intel_analysis": null,
+  "risk_analysis": null,
+  "synthesized_recommendation": null,
+  "errors": [],
+  "progress": [
+    "\u2705 Price data fetched"
+  ],
+  "start_time": "2026-01-14T14:21:32.042262+00:00",
+  "execution_path": "price_check"
+}

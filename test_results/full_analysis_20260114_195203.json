@@ -1,0 +1,1631 @@
+{
+  "ticker": "TCS.NS",
+  "ticker_2": null,
+  "intent": "full_analysis",
+  "user_id": "test_user",
+  "stock_data": {
+    "ticker": "TCS.NS",
+    "name": "Tata Consultancy Services Limited",
+    "timestamp": "2026-01-14 19:51:40.117113",
+    "price_data": {
+      "current_price": 3192.5,
+      "change_percent": -2.31,
+      "change_absolute": -75.5,
+      "volume": 3538555,
+      "previous_close": 3268.0,
+      "day_high": 3260.0,
+      "day_low": 3183.0,
+      "week_52_high": 4294.0,
+      "week_52_low": 2866.6,
+      "avg_volume": 2706290,
+      "historical_ohlcv": [
+        {
+          "date": "2025-07-18",
+          "open": 3213.02,
+          "high": 3216.8,
+          "low": 3175.16,
+          "close": 3178.05,
+          "volume": 3432645
+        },
+        {
+          "date": "2025-07-21",
+          "open": 3178.15,
+          "high": 3185.72,
+          "low": 3140.29,
+          "close": 3146.46,
+          "volume": 3844346
+        },
+        {
+          "date": "2025-07-22",
+          "open": 3147.86,
+          "high": 3168.28,
+          "low": 3142.88,
+          "close": 3147.86,
+          "volume": 3198036
+        },
+        {
+          "date": "2025-07-23",
+          "open": 3147.86,
+          "high": 3170.18,
+          "low": 3145.87,
+          "close": 3167.29,
+          "volume": 1922875
+        },
+        {
+          "date": "2025-07-24",
+          "open": 3153.34,
+          "high": 3161.91,
+          "low": 3128.33,
+          "close": 3136.3,
+          "volume": 2934778
+        },
+        {
+          "date": "2025-07-25",
+          "open": 3128.33,
+          "high": 3145.17,
+          "low": 3113.99,
+          "close": 3124.15,
+          "volume": 2568917
+        },
+        {
+          "date": "2025-07-28",
+          "open": 3098.44,
+          "high": 3106.41,
+          "low": 3058.49,
+          "close": 3067.86,
+          "volume": 3374473
+        },
+        {
+          "date": "2025-07-29",
+          "open": 3048.63,
+          "high": 3062.58,
+          "low": 3029.9,
+          "close": 3044.64,
+          "volume": 4785312
+        },
+        {
+          "date": "2025-07-30",
+          "open": 3048.63,
+          "high": 3057.6,
+          "low": 3035.88,
+          "close": 3042.25,
+          "volume": 2880121
+        },
+        {
+          "date": "2025-07-31",
+          "open": 3030.4,
+          "high": 3048.43,
+          "low": 3003.8,
+          "close": 3025.52,
+          "volume": 2968371
+        },
+        {
+          "date": "2025-08-01",
+          "open": 3018.64,
+          "high": 3025.52,
+          "low": 2988.85,
+          "close": 2991.84,
+          "volume": 2053847
+        },
+        {
+          "date": "2025-08-04",
+          "open": 2997.92,
+          "high": 3067.96,
+          "low": 2980.48,
+          "close": 3062.98,
+          "volume": 2519252
+        },
+        {
+          "date": "2025-08-05",
+          "open": 3062.98,
+          "high": 3066.06,
+          "low": 3030.7,
+          "close": 3052.52,
+          "volume": 1927996
+        },
+        {
+          "date": "2025-08-06",
+          "open": 3051.62,
+          "high": 3055.4,
+          "low": 3014.76,
+          "close": 3021.03,
+          "volume": 1487081
+        },
+        {
+          "date": "2025-08-07",
+          "open": 3004.79,
+          "high": 3040.26,
+          "low": 2999.71,
+          "close": 3035.68,
+          "volume": 2543076
+        },
+        {
+          "date": "2025-08-08",
+          "open": 3036.77,
+          "high": 3048.43,
+          "low": 3013.76,
+          "close": 3025.12,
+          "volume": 2762140
+        },
+        {
+          "date": "2025-08-11",
+          "open": 3025.12,
+          "high": 3038.57,
+          "low": 3010.07,
+          "close": 3029.5,
+          "volume": 1884215
+        },
+        {
+          "date": "2025-08-12",
+          "open": 3029.7,
+          "high": 3084.89,
+          "low": 3015.65,
+          "close": 3024.12,
+          "volume": 3358232
+        },
+        {
+          "date": "2025-08-13",
+          "open": 3024.82,
+          "high": 3033.09,
+          "low": 3017.35,
+          "close": 3024.92,
+          "volume": 2148166
+        },
+        {
+          "date": "2025-08-14",
+          "open": 3022.73,
+          "high": 3044.54,
+          "low": 3007.88,
+          "close": 3011.07,
+          "volume": 3342174
+        },
+        {
+          "date": "2025-08-18",
+          "open": 3035.18,
+          "high": 3037.67,
+          "low": 2992.24,
+          "close": 3000.01,
+          "volume": 2945609
+        },
+        {
+          "date": "2025-08-19",
+          "open": 3000.01,
+          "high": 3013.76,
+          "low": 2999.91,
+          "close": 3004.99,
+          "volume": 2650784
+        },
+        {
+          "date": "2025-08-20",
+          "open": 2999.71,
+          "high": 3091.87,
+          "low": 2999.71,
+          "close": 3087.09,
+          "volume": 4952358
+        },
+        {
+          "date": "2025-08-21",
+          "open": 3118.37,
+          "high": 3118.37,
+          "low": 3071.64,
+          "close": 3091.07,
+          "volume": 3230726
+        },
+        {
+          "date": "2025-08-22",
+          "open": 3074.53,
+          "high": 3084.2,
+          "low": 3038.67,
+          "close": 3042.65,
+          "volume": 1593791
+        },
+        {
+          "date": "2025-08-25",
+          "open": 3075.83,
+          "high": 3140.29,
+          "low": 3065.67,
+          "close": 3128.93,
+          "volume": 3448370
+        },
+        {
+          "date": "2025-08-26",
+          "open": 3117.37,
+          "high": 3150.25,
+          "low": 3108.41,
+          "close": 3145.47,
+          "volume": 5522097
+        },
+        {
+          "date": "2025-08-28",
+          "open": 3133.31,
+          "high": 3134.81,
+          "low": 3075.03,
+          "close": 3082.2,
+          "volume": 3116051
+        },
+        {
+          "date": "2025-08-29",
+          "open": 3081.51,
+          "high": 3103.43,
+          "low": 3065.77,
+          "close": 3073.24,
+          "volume": 2271789
+        },
+        {
+          "date": "2025-09-01",
+          "open": 3078.52,
+          "high": 3119.47,
+          "low": 3078.52,
+          "close": 3101.03,
+          "volume": 1246862
+        },
+        {
+          "date": "2025-09-02",
+          "open": 3109.5,
+          "high": 3143.28,
+          "low": 3091.57,
+          "close": 3099.94,
+          "volume": 2185229
+        },
+        {
+          "date": "2025-09-03",
+          "open": 3118.27,
+          "high": 3130.23,
+          "low": 3076.53,
+          "close": 3085.99,
+          "volume": 1799774
+        },
+        {
+          "date": "2025-09-04",
+          "open": 3104.42,
+          "high": 3106.41,
+          "low": 3079.32,
+          "close": 3084.2,
+          "volume": 1481391
+        },
+        {
+          "date": "2025-09-05",
+          "open": 3085.59,
+          "high": 3091.87,
+          "low": 3017.35,
+          "close": 3036.97,
+          "volume": 2802055
+        },
+        {
+          "date": "2025-09-08",
+          "open": 3038.67,
+          "high": 3053.51,
+          "low": 3004.79,
+          "close": 3007.78,
+          "volume": 2626187
+        },
+        {
+          "date": "2025-09-09",
+          "open": 3020.83,
+          "high": 3048.63,
+          "low": 3019.54,
+          "close": 3038.07,
+          "volume": 2489301
+        },
+        {
+          "date": "2025-09-10",
+          "open": 3045.04,
+          "high": 3111.1,
+          "low": 3042.05,
+          "close": 3098.44,
+          "volume": 2079428
+        },
+        {
+          "date": "2025-09-11",
+          "open": 3127.34,
+          "high": 3127.34,
+          "low": 3098.54,
+          "close": 3112.59,
+          "volume": 2263446
+        },
+        {
+          "date": "2025-09-12",
+          "open": 3132.32,
+          "high": 3137.0,
+          "low": 3109.4,
+          "close": 3121.76,
+          "volume": 1447167
+        },
+        {
+          "date": "2025-09-15",
+          "open": 3122.35,
+          "high": 3122.35,
+          "low": 3084.5,
+          "close": 3100.34,
+          "volume": 1732539
+        },
+        {
+          "date": "2025-09-16",
+          "open": 3116.38,
+          "high": 3138.3,
+          "low": 3097.55,
+          "close": 3134.01,
+          "volume": 2573429
+        },
+        {
+          "date": "2025-09-17",
+          "open": 3140.29,
+          "high": 3170.57,
+          "low": 3130.72,
+          "close": 3161.01,
+          "volume": 2418271
+        },
+        {
+          "date": "2025-09-18",
+          "open": 3173.17,
+          "high": 3191.1,
+          "low": 3149.65,
+          "close": 3164.9,
+          "volume": 2633138
+        },
+        {
+          "date": "2025-09-19",
+          "open": 3158.22,
+          "high": 3168.68,
+          "low": 3132.32,
+          "close": 3157.42,
+          "volume": 4901694
+        },
+        {
+          "date": "2025-09-22",
+          "open": 3083.5,
+          "high": 3095.36,
+          "low": 3053.61,
+          "close": 3062.38,
+          "volume": 3634901
+        },
+        {
+          "date": "2025-09-23",
+          "open": 3058.59,
+          "high": 3069.25,
+          "low": 3040.66,
+          "close": 3051.02,
+          "volume": 3177741
+        },
+        {
+          "date": "2025-09-24",
+          "open": 3038.67,
+          "high": 3045.64,
+          "low": 3021.73,
+          "close": 3024.12,
+          "volume": 1625714
+        },
+        {
+          "date": "2025-09-25",
+          "open": 3010.77,
+          "high": 3018.34,
+          "low": 2940.03,
+          "close": 2946.41,
+          "volume": 4974361
+        },
+        {
+          "date": "2025-09-26",
+          "open": 2930.07,
+          "high": 2943.82,
+          "low": 2880.56,
+          "close": 2888.33,
+          "volume": 3934636
+        },
+        {
+          "date": "2025-09-29",
+          "open": 2905.16,
+          "high": 2918.42,
+          "low": 2883.25,
+          "close": 2885.34,
+          "volume": 3110035
+        },
+        {
+          "date": "2025-09-30",
+          "open": 2900.18,
+          "high": 2904.47,
+          "low": 2874.38,
+          "close": 2877.67,
+          "volume": 2253458
+        },
+        {
+          "date": "2025-10-01",
+          "open": 2880.26,
+          "high": 2913.93,
+          "low": 2855.95,
+          "close": 2903.37,
+          "volume": 1952902
+        },
+        {
+          "date": "2025-10-03",
+          "open": 2913.13,
+          "high": 2913.13,
+          "low": 2880.36,
+          "close": 2891.12,
+          "volume": 2899519
+        },
+        {
+          "date": "2025-10-06",
+          "open": 2891.22,
+          "high": 2982.48,
+          "low": 2884.84,
+          "close": 2977.3,
+          "volume": 2112774
+        },
+        {
+          "date": "2025-10-07",
+          "open": 2983.87,
+          "high": 2993.34,
+          "low": 2944.52,
+          "close": 2962.65,
+          "volume": 3062943
+        },
+        {
+          "date": "2025-10-08",
+          "open": 2963.95,
+          "high": 3031.69,
+          "low": 2956.97,
+          "close": 3015.95,
+          "volume": 4121889
+        },
+        {
+          "date": "2025-10-09",
+          "open": 3022.73,
+          "high": 3054.61,
+          "low": 3008.78,
+          "close": 3050.32,
+          "volume": 3211304
+        },
+        {
+          "date": "2025-10-10",
+          "open": 3038.67,
+          "high": 3058.59,
+          "low": 2995.73,
+          "close": 3017.05,
+          "volume": 8817365
+        },
+        {
+          "date": "2025-10-13",
+          "open": 3015.75,
+          "high": 3024.22,
+          "low": 2987.06,
+          "close": 2996.03,
+          "volume": 2866865
+        },
+        {
+          "date": "2025-10-14",
+          "open": 3009.77,
+          "high": 3015.95,
+          "low": 2944.52,
+          "close": 2949.3,
+          "volume": 3611416
+        },
+        {
+          "date": "2025-10-15",
+          "open": 2971.0,
+          "high": 2979.7,
+          "low": 2951.0,
+          "close": 2969.8,
+          "volume": 4282226
+        },
+        {
+          "date": "2025-10-16",
+          "open": 2969.9,
+          "high": 2975.0,
+          "low": 2943.1,
+          "close": 2970.7,
+          "volume": 3251495
+        },
+        {
+          "date": "2025-10-17",
+          "open": 2970.0,
+          "high": 2988.8,
+          "low": 2955.4,
+          "close": 2962.2,
+          "volume": 4374683
+        },
+        {
+          "date": "2025-10-20",
+          "open": 2985.5,
+          "high": 3023.0,
+          "low": 2978.5,
+          "close": 3015.2,
+          "volume": 3133039
+        },
+        {
+          "date": "2025-10-21",
+          "open": 3031.1,
+          "high": 3031.8,
+          "low": 2996.0,
+          "close": 3006.7,
+          "volume": 310644
+        },
+        {
+          "date": "2025-10-23",
+          "open": 3055.0,
+          "high": 3098.0,
+          "low": 3036.1,
+          "close": 3073.2,
+          "volume": 5564758
+        },
+        {
+          "date": "2025-10-24",
+          "open": 3080.0,
+          "high": 3090.0,
+          "low": 3058.3,
+          "close": 3063.2,
+          "volume": 2684318
+        },
+        {
+          "date": "2025-10-27",
+          "open": 3066.5,
+          "high": 3094.2,
+          "low": 3060.2,
+          "close": 3084.9,
+          "volume": 1946312
+        },
+        {
+          "date": "2025-10-28",
+          "open": 3076.0,
+          "high": 3090.2,
+          "low": 3040.2,
+          "close": 3057.9,
+          "volume": 3470737
+        },
+        {
+          "date": "2025-10-29",
+          "open": 3057.9,
+          "high": 3076.0,
+          "low": 3046.1,
+          "close": 3057.6,
+          "volume": 2895420
+        },
+        {
+          "date": "2025-10-30",
+          "open": 3049.1,
+          "high": 3063.8,
+          "low": 3032.8,
+          "close": 3035.3,
+          "volume": 2241536
+        },
+        {
+          "date": "2025-10-31",
+          "open": 3035.0,
+          "high": 3067.4,
+          "low": 3025.1,
+          "close": 3058.0,
+          "volume": 1868085
+        },
+        {
+          "date": "2025-11-03",
+          "open": 3046.9,
+          "high": 3058.0,
+          "low": 3010.0,
+          "close": 3016.8,
+          "volume": 2194877
+        },
+        {
+          "date": "2025-11-04",
+          "open": 3019.6,
+          "high": 3029.3,
+          "low": 2976.0,
+          "close": 2990.2,
+          "volume": 2670720
+        },
+        {
+          "date": "2025-11-05",
+          "open": 2990.2,
+          "high": 2990.2,
+          "low": 2990.2,
+          "close": 2990.2,
+          "volume": 0
+        },
+        {
+          "date": "2025-11-06",
+          "open": 2990.1,
+          "high": 3024.0,
+          "low": 2990.0,
+          "close": 3010.9,
+          "volume": 2542721
+        },
+        {
+          "date": "2025-11-07",
+          "open": 3001.0,
+          "high": 3004.0,
+          "low": 2960.5,
+          "close": 2991.8,
+          "volume": 1830520
+        },
+        {
+          "date": "2025-11-10",
+          "open": 2993.0,
+          "high": 3047.9,
+          "low": 2992.0,
+          "close": 3025.2,
+          "volume": 1556656
+        },
+        {
+          "date": "2025-11-11",
+          "open": 3045.0,
+          "high": 3055.7,
+          "low": 3018.0,
+          "close": 3047.0,
+          "volume": 2806868
+        },
+        {
+          "date": "2025-11-12",
+          "open": 3060.0,
+          "high": 3136.4,
+          "low": 3057.1,
+          "close": 3131.8,
+          "volume": 4460315
+        },
+        {
+          "date": "2025-11-13",
+          "open": 3131.8,
+          "high": 3131.9,
+          "low": 3102.0,
+          "close": 3105.7,
+          "volume": 1740435
+        },
+        {
+          "date": "2025-11-14",
+          "open": 3090.0,
+          "high": 3113.1,
+          "low": 3077.3,
+          "close": 3106.0,
+          "volume": 2210794
+        },
+        {
+          "date": "2025-11-17",
+          "open": 3106.0,
+          "high": 3123.5,
+          "low": 3086.6,
+          "close": 3102.2,
+          "volume": 2232853
+        },
+        {
+          "date": "2025-11-18",
+          "open": 3102.0,
+          "high": 3105.0,
+          "low": 3078.0,
+          "close": 3087.1,
+          "volume": 2548350
+        },
+        {
+          "date": "2025-11-19",
+          "open": 3097.0,
+          "high": 3155.0,
+          "low": 3083.5,
+          "close": 3147.7,
+          "volume": 3151053
+        },
+        {
+          "date": "2025-11-20",
+          "open": 3148.0,
+          "high": 3164.5,
+          "low": 3138.1,
+          "close": 3144.8,
+          "volume": 2700767
+        },
+        {
+          "date": "2025-11-21",
+          "open": 3144.8,
+          "high": 3170.0,
+          "low": 3135.2,
+          "close": 3150.6,
+          "volume": 4177037
+        },
+        {
+          "date": "2025-11-24",
+          "open": 3158.0,
+          "high": 3178.9,
+          "low": 3131.0,
+          "close": 3141.2,
+          "volume": 6703764
+        },
+        {
+          "date": "2025-11-25",
+          "open": 3145.3,
+          "high": 3149.8,
+          "low": 3115.0,
+          "close": 3119.2,
+          "volume": 2737920
+        },
+        {
+          "date": "2025-11-26",
+          "open": 3118.8,
+          "high": 3178.0,
+          "low": 3117.0,
+          "close": 3162.9,
+          "volume": 2508527
+        },
+        {
+          "date": "2025-11-27",
+          "open": 3180.0,
+          "high": 3180.0,
+          "low": 3125.0,
+          "close": 3136.6,
+          "volume": 2836233
+        },
+        {
+          "date": "2025-11-28",
+          "open": 3140.0,
+          "high": 3147.3,
+          "low": 3125.0,
+          "close": 3137.5,
+          "volume": 1616690
+        },
+        {
+          "date": "2025-12-01",
+          "open": 3137.9,
+          "high": 3154.0,
+          "low": 3122.2,
+          "close": 3133.4,
+          "volume": 1747647
+        },
+        {
+          "date": "2025-12-02",
+          "open": 3131.0,
+          "high": 3144.0,
+          "low": 3120.4,
+          "close": 3135.7,
+          "volume": 2512003
+        },
+        {
+          "date": "2025-12-03",
+          "open": 3140.0,
+          "high": 3211.9,
+          "low": 3139.0,
+          "close": 3180.0,
+          "volume": 3952112
+        },
+        {
+          "date": "2025-12-04",
+          "open": 3194.0,
+          "high": 3250.0,
+          "low": 3187.4,
+          "close": 3229.2,
+          "volume": 5025905
+        },
+        {
+          "date": "2025-12-05",
+          "open": 3230.0,
+          "high": 3271.6,
+          "low": 3222.4,
+          "close": 3238.2,
+          "volume": 5244013
+        },
+        {
+          "date": "2025-12-08",
+          "open": 3243.0,
+          "high": 3259.9,
+          "low": 3208.6,
+          "close": 3236.5,
+          "volume": 2544725
+        },
+        {
+          "date": "2025-12-09",
+          "open": 3230.0,
+          "high": 3233.7,
+          "low": 3181.2,
+          "close": 3208.3,
+          "volume": 2734893
+        },
+        {
+          "date": "2025-12-10",
+          "open": 3225.0,
+          "high": 3225.0,
+          "low": 3178.1,
+          "close": 3189.2,
+          "volume": 1386849
+        },
+        {
+          "date": "2025-12-11",
+          "open": 3205.0,
+          "high": 3208.4,
+          "low": 3153.1,
+          "close": 3191.9,
+          "volume": 1914362
+        },
+        {
+          "date": "2025-12-12",
+          "open": 3197.7,
+          "high": 3223.0,
+          "low": 3185.7,
+          "close": 3220.5,
+          "volume": 1146554
+        },
+        {
+          "date": "2025-12-15",
+          "open": 3211.1,
+          "high": 3238.2,
+          "low": 3197.3,
+          "close": 3230.2,
+          "volume": 1562190
+        },
+        {
+          "date": "2025-12-16",
+          "open": 3220.0,
+          "high": 3220.0,
+          "low": 3191.1,
+          "close": 3205.1,
+          "volume": 1734623
+        },
+        {
+          "date": "2025-12-17",
+          "open": 3200.5,
+          "high": 3236.9,
+          "low": 3200.5,
+          "close": 3217.8,
+          "volume": 1376350
+        },
+        {
+          "date": "2025-12-18",
+          "open": 3228.0,
+          "high": 3287.8,
+          "low": 3221.0,
+          "close": 3280.8,
+          "volume": 2307422
+        },
+        {
+          "date": "2025-12-19",
+          "open": 3299.0,
+          "high": 3317.9,
+          "low": 3278.8,
+          "close": 3282.0,
+          "volume": 3902511
+        },
+        {
+          "date": "2025-12-22",
+          "open": 3310.0,
+          "high": 3328.6,
+          "low": 3291.0,
+          "close": 3324.9,
+          "volume": 2632816
+        },
+        {
+          "date": "2025-12-23",
+          "open": 3319.9,
+          "high": 3319.9,
+          "low": 3293.5,
+          "close": 3310.0,
+          "volume": 2365420
+        },
+        {
+          "date": "2025-12-24",
+          "open": 3304.1,
+          "high": 3327.1,
+          "low": 3296.1,
+          "close": 3319.0,
+          "volume": 1367708
+        },
+        {
+          "date": "2025-12-25",
+          "open": 3319.0,
+          "high": 3319.0,
+          "low": 3319.0,
+          "close": 3319.0,
+          "volume": 0
+        },
+        {
+          "date": "2025-12-26",
+          "open": 3313.1,
+          "high": 3320.0,
+          "low": 3271.8,
+          "close": 3280.0,
+          "volume": 1176664
+        },
+        {
+          "date": "2025-12-29",
+          "open": 3280.0,
+          "high": 3288.0,
+          "low": 3242.9,
+          "close": 3251.5,
+          "volume": 2079473
+        },
+        {
+          "date": "2025-12-30",
+          "open": 3250.0,
+          "high": 3267.5,
+          "low": 3239.5,
+          "close": 3246.8,
+          "volume": 2807593
+        },
+        {
+          "date": "2025-12-31",
+          "open": 3240.0,
+          "high": 3246.0,
+          "low": 3198.5,
+          "close": 3206.2,
+          "volume": 3362634
+        },
+        {
+          "date": "2026-01-01",
+          "open": 3215.0,
+          "high": 3234.1,
+          "low": 3198.2,
+          "close": 3227.4,
+          "volume": 1255735
+        },
+        {
+          "date": "2026-01-02",
+          "open": 3234.0,
+          "high": 3254.3,
+          "low": 3219.5,
+          "close": 3250.7,
+          "volume": 1184324
+        },
+        {
+          "date": "2026-01-05",
+          "open": 3240.5,
+          "high": 3247.0,
+          "low": 3191.0,
+          "close": 3216.1,
+          "volume": 2341703
+        },
+        {
+          "date": "2026-01-06",
+          "open": 3210.0,
+          "high": 3263.2,
+          "low": 3205.0,
+          "close": 3255.8,
+          "volume": 2912325
+        },
+        {
+          "date": "2026-01-07",
+          "open": 3242.9,
+          "high": 3300.6,
+          "low": 3223.2,
+          "close": 3295.6,
+          "volume": 1989442
+        },
+        {
+          "date": "2026-01-08",
+          "open": 3286.9,
+          "high": 3286.9,
+          "low": 3182.0,
+          "close": 3203.9,
+          "volume": 4159336
+        },
+        {
+          "date": "2026-01-09",
+          "open": 3191.0,
+          "high": 3229.7,
+          "low": 3191.0,
+          "close": 3207.8,
+          "volume": 1938673
+        },
+        {
+          "date": "2026-01-12",
+          "open": 3203.0,
+          "high": 3252.0,
+          "low": 3174.3,
+          "close": 3239.6,
+          "volume": 2228342
+        },
+        {
+          "date": "2026-01-13",
+          "open": 3245.0,
+          "high": 3280.0,
+          "low": 3210.5,
+          "close": 3268.0,
+          "volume": 5645341
+        },
+        {
+          "date": "2026-01-14",
+          "open": 3260.0,
+          "high": 3260.0,
+          "low": 3183.0,
+          "close": 3192.5,
+          "volume": 3538555
+        }
+      ]
+    },
+    "fundamental_data": {
+      "market_cap": 11550744117248.0,
+      "pe_ratio": 24.18011,
+      "pb_ratio": 10.176045,
+      "eps": 132.03,
+      "dividend_yield": 193.0,
+      "roe": 42.635,
+      "roce": null,
+      "debt_to_equity": 0.09444000000000001,
+      "current_ratio": 2.525,
+      "book_value": 313.727,
+      "face_value": null,
+      "industry": "Information Technology Services",
+      "sector": "Technology",
+      "quarterly_results": {
+        "revenue": 2608020062208.0,
+        "revenue_growth_yoy": 0.049,
+        "net_profit": 477160013824.0,
+        "profit_growth_yoy": -0.139,
+        "operating_margin": 25.179002,
+        "net_margin": 18.295999
+      }
+    },
+    "ownership_data": {
+      "promoter_holding": 0.0,
+      "fii_holding": 0.0,
+      "dii_holding": 0.0,
+      "public_holding": 100.0,
+      "pledged_shares": 0.0
+    },
+    "corporate_actions": [
+      {
+        "type": "dividend",
+        "amount": 10.0,
+        "ratio": null,
+        "ex_date": "2024-10-18",
+        "record_date": null
+      },
+      {
+        "type": "dividend",
+        "amount": 76.0,
+        "ratio": null,
+        "ex_date": "2025-01-17",
+        "record_date": null
+      },
+      {
+        "type": "dividend",
+        "amount": 30.0,
+        "ratio": null,
+        "ex_date": "2025-06-04",
+        "record_date": null
+      },
+      {
+        "type": "dividend",
+        "amount": 11.0,
+        "ratio": null,
+        "ex_date": "2025-07-16",
+        "record_date": null
+      },
+      {
+        "type": "dividend",
+        "amount": 11.0,
+        "ratio": null,
+        "ex_date": "2025-10-15",
+        "record_date": null
+      },
+      {
+        "type": "split",
+        "amount": null,
+        "ratio": "1:2",
+        "ex_date": "2006-07-28",
+        "record_date": null
+      },
+      {
+        "type": "split",
+        "amount": null,
+        "ratio": "1:2",
+        "ex_date": "2009-06-16",
+        "record_date": null
+      },
+      {
+        "type": "split",
+        "amount": null,
+        "ratio": "1:2",
+        "ex_date": "2018-05-31",
+        "record_date": null
+      }
+    ]
+  },
+  "stock_data_2": null,
+  "news_data": {
+    "ticker": "TCS.NS",
+    "articles": [
+      {
+        "title": "TCS, Siemens, BEL, REC, Eternal, Nalco, Tata Steel, Ireda",
+        "source": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-tata-consultancy-services-tcs-siemens-bharat-electronics-bel-rec-nalco-eternal-tata-steel-ireda",
+        "published_at": "2026-01-13 15:53:34+00:00",
+        "description": "Should you add shares of Tata Consultancy Services Ltd.? Should you hold shares of Bharat Electronics Ltd. at the current market price? Have you lost the chance to buy Eternal Ltd. stock at an attractive price? Swati Hotkar, associate vice president of technical research at Nirmal Bang, and Tapan Doshi of Catapan.in provided insights on these investor queries and more on NDTV Profit's Ask Profit show.",
+        "sentiment": "positive",
+        "relevance": "high"
+      },
+      {
+        "title": "Buy Tata Consultancy Services; target of Rs 4040: Prabhudas Lilladher",
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/stocks/buy-tata-consultancy-services-target-of-rs-4040-prabhudas-lilladher-13769997.html",
+        "published_at": "2026-01-13 04:54:19+00:00",
+        "description": "Prabhudas Lilladher is bullish on Tata Consultancy Services has recommended buy rating on the stock with a target price of Rs 4040 in its research report dated January 13, 2026.",
+        "sentiment": "positive",
+        "relevance": "high"
+      },
+      {
+        "title": "TCS Shares Rise After Q3 Results, Higher-Than Anticipated Dividend",
+        "source": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/markets/tcs-shares-rise-086-after-q3-results-analysts-divided-over-stocks-future-prospects",
+        "published_at": "2026-01-13 04:37:29+00:00",
+        "description": "While India\u2019s largest IT services company, Tata Consultancy Services Ltd. (TCS), has mixed reactions from analysts, over two-thirds of analysts maintain a \"buy\" rating on the stock. This is despite a 25% correction over the past 12 months.",
+        "sentiment": "positive",
+        "relevance": "high"
+      },
+      {
+        "title": "TCS shares in focus as Q3 net profit drops 14% YoY. What should investors do?",
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-shares-in-focus-as-q3-net-profit-drops-14-yoy-what-should-investors-do/articleshow/126496123.cms",
+        "published_at": "2026-01-13 03:28:00+00:00",
+        "description": "Tata Consultancy Services reported a year-on-year decline in Q3FY26 profit despite steady revenue growth, driven by one-off costs and wage hikes. Brokerages remain cautious but constructive, citing stable margins, improving demand visibility and growing AI-led deal traction, while largely recommending a neutral-to-positive stance on the stock.",
+        "sentiment": "positive",
+        "relevance": "high"
+      },
+      {
+        "title": "TCS stock outlook cautious after Q3 results; brokerages flag weak growth visibility",
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/earnings/tcs-stock-outlook-cautious-after-q3-results-brokerages-flag-weak-growth-visibility-13769723.html",
+        "published_at": "2026-01-13 03:13:29+00:00",
+        "description": "The outlook for Tata Consultancy Services stock has turned cautious after Q3 results, with most brokerages flagging weak growth visibility and muted international momentum, even as operational performance remained largely in line excluding one-offs.",
+        "sentiment": "neutral",
+        "relevance": "high"
+      },
+      {
+        "title": "Dividend, stock split: From TCS to Kotak Mahindra, these shares to trade ex-date next week",
+        "source": "India TV News",
+        "url": "https://www.indiatvnews.com/business/budget/dividend-stock-split-from-tcs-to-kotak-mahindra-these-shares-to-trade-ex-date-next-week-2026-01-12-1025542",
+        "published_at": "2026-01-12 11:18:25+00:00",
+        "description": "From IT major Tata Consultancy Services (TCS) to Kotak Mahindra, stocks of these companies will trade ex-date this week for stock split, bonus issue and interim dividend.",
+        "sentiment": "neutral",
+        "relevance": "high"
+      },
+      {
+        "title": "TCS Announces \u20b957 Dividend for Q3, Surpasses Market Expectations with Special Payout",
+        "source": "scanx.trade",
+        "url": "https://scanx.trade/stock-market-news/corporate-actions/tcs-announces-57-dividend-for-q3-surpasses-market-expectations-with-special-payout/29760838",
+        "published_at": "2026-01-12 10:53:58+00:00",
+        "description": "Tata Consultancy Services declared a total dividend of \u20b957 per share for Q3, comprising \u20b911 interim and \u20b946 special dividend, significantly exceeding analyst expectations of \u20b934.19 per share. The company has paid \u20b922 per share in dividends during the current financial year, with full-year analyst projections of \u20b9115.72 per share. TCS shares rose 1.10% to \u20b93,243 following the announcement, though the stock remains down 24.50% over 12 months. Analyst sentiment stays positive with 35 of 51 analysts maintaining buy ratings.",
+        "sentiment": "positive",
+        "relevance": "high"
+      },
+      {
+        "title": "TCS Q3 results: Revenue from operations rises 5% YoY, company declares Rs 57 dividend per equity share",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/tcs-q3-results-revenue-from-operations-rises-5-yoy-company-declares-rs-57-dividend-per-equity-share/articleshow/126482463.cms",
+        "published_at": "2026-01-12 10:50:00+00:00",
+        "description": "India Business News: Tata Consultancy Services (TCS) on Monday reported the revenue from operations in Q3FY26 stood at Rs 67,087, up 5% over Rs 63,973 crore in the corresp.",
+        "sentiment": "positive",
+        "relevance": "high"
+      },
+      {
+        "title": "TCS Q3 Dividend: IT Major Announces Rs 57 Payout Per Share Including Special Dividend; Check Record Date",
+        "source": "News18",
+        "url": "https://www.news18.com/business/markets/tcs-q3-dividend-it-major-declares-interim-dividend-of-rs-11-and-special-dividend-of-rs-46-per-share-9825331.html",
+        "published_at": "2026-01-12 10:38:34+00:00",
+        "description": "TCS Q3 Results Dividend Announcement: Tata Consultancy Services declared an interim dividend along with its Q3FY26 financial results",
+        "sentiment": "positive",
+        "relevance": "high"
+      },
+      {
+        "title": "TCS Dividend Tops Market Expectations With Special Payout - Check Record Date And More",
+        "source": "NDTV Profit",
+        "url": "https://www.ndtvprofit.com/quarterly-earnings/tcs-dividend-tops-market-expectations-with-special-payout-check-record-date-and-more",
+        "published_at": "2026-01-12 10:26:47+00:00",
+        "description": "Tata Consultancy Services Ltd. (TCS) on Monday announced a bumper dividend of Rs 57 for the third quarter of the ongoing financial year, topping street expectations by a wider estimate. India's largest IT exporter announced an interim dividend of Rs 11 per share and a special dividend of Rs 46 per share, according to its notification to the exchanges.",
+        "sentiment": "positive",
+        "relevance": "high"
+      }
+    ],
+    "total_count": 10,
+    "positive_count": 8,
+    "negative_count": 0,
+    "neutral_count": 2,
+    "overall_sentiment": "positive",
+    "fetched_at": "2026-01-14 19:51:40.217637"
+  },
+  "market_data": {
+    "nifty_50": 25665.6,
+    "nifty_change_percent": -0.26,
+    "sensex": 83382.71,
+    "sensex_change_percent": -0.29,
+    "india_vix": 11.32,
+    "market_status": "closed",
+    "fii_net_buy": null,
+    "dii_net_buy": null
+  },
+  "fundamental_analysis": {
+    "score": 75,
+    "rating": "HOLD",
+    "recommendation": "Tata Consultancy Services (TCS) exhibits strong fundamental qualities but appears fairly valued at its current price, suggesting a HOLD recommendation. The company demonstrates robust profitability and financial health, though recent growth has been muted. Investors should monitor future growth drivers and valuation trends.",
+    "valuation": {
+      "current_pe": 24.18,
+      "sector_avg_pe": null,
+      "fair_pe": 25.0,
+      "fair_value": 3300.75,
+      "upside_potential_percent": 3.4,
+      "margin_of_safety": null
+    },
+    "quality_metrics": {
+      "roe": 42.63,
+      "roce": null,
+      "operating_margin": 25.18,
+      "net_margin": 18.3,
+      "earnings_quality_score": 90
+    },
+    "growth_metrics": {
+      "revenue_growth_3y_cagr": null,
+      "profit_growth_3y_cagr": null,
+      "growth_consistency_score": 50
+    },
+    "financial_health": {
+      "debt_to_equity": 0.09,
+      "interest_coverage": null,
+      "current_ratio": 2.52,
+      "free_cash_flow": null,
+      "balance_sheet_strength_score": 95
+    },
+    "strengths": [
+      "Exceptional Profitability: TCS boasts a very high ROE of 42.63% and strong operating (25.18%) and net (18.30%) margins, indicating efficient operations and strong profit generation.",
+      "Robust Financial Health: A low Debt/Equity ratio of 0.09 and a healthy Current Ratio of 2.52 signify a strong balance sheet with minimal leverage and good short-term liquidity.",
+      " Significant Dividend Payout: The reported dividend yield of 193.00% (likely an error in the provided data, as it's unusually high and likely represents total dividends paid over a period rather than a yield based on current price) suggests a commitment to returning value to shareholders, though the sustainability needs further scrutiny.",
+      "Strong Brand and Market Position: As a leading IT services company, TCS benefits from a strong brand reputation and a significant market share, providing a competitive advantage."
+    ],
+    "concerns": [
+      "Stagnant Recent Growth: Revenue and Net Profit have shown minimal year-over-year growth (0.05% and -0.14% respectively), indicating a slowdown in expansion.",
+      "Lack of Promoter Holding: The promoter holding is reported as 0.00%, which is highly unusual for a Tata Group company and raises questions about corporate structure and governance. This is a significant anomaly that requires clarification.",
+      "Missing Key Data Points: ROCE, Interest Coverage, 3-year CAGR for revenue and profit, and Free Cash Flow are not provided, hindering a complete financial assessment."
+    ],
+    "peer_comparison": []
+  },
+  "fundamental_analysis_2": null,
+  "technical_analysis": {
+    "score": 35,
+    "signal": "BEARISH",
+    "confidence": "MEDIUM",
+    "trend_analysis": {
+      "short_term": "Downtrend",
+      "medium_term": "Sideways",
+      "long_term": "Sideways",
+      "overall_trend": "Sideways"
+    },
+    "trading_setup": {
+      "pattern_identified": null,
+      "pattern_reliability": null,
+      "entry_zone": [
+        3153.1,
+        3183.0
+      ],
+      "target_1": 3004.79,
+      "target_2": 2992.24,
+      "target_3": 2855.95,
+      "stop_loss": 3271.6,
+      "risk_reward_ratio": 1.8,
+      "time_horizon": "Short-term"
+    },
+    "indicators": {
+      "rsi_14": {
+        "value": 37.42,
+        "signal": "Bearish",
+        "interpretation": "Neutral"
+      },
+      "macd": {
+        "value": 7.26,
+        "signal_line": 16.8,
+        "histogram": -9.55,
+        "signal": "Bearish",
+        "interpretation": "MACD below signal line"
+      },
+      "moving_averages": {
+        "ema_20": 3235.83,
+        "ema_50": 3195.39,
+        "ema_200": null,
+        "price_vs_ema20": "Below (bearish)",
+        "price_vs_ema50": "Below (bearish)",
+        "price_vs_ema200": null
+      },
+      "bollinger_bands": {
+        "upper": 3342.7,
+        "middle": 3258.88,
+        "lower": 3175.06,
+        "position": "Below middle band (bearish)",
+        "width": 5.14
+      }
+    },
+    "support_resistance": {
+      "immediate_resistance": [
+        3271.6,
+        3300.6
+      ],
+      "major_resistance": [
+        3328.6
+      ],
+      "immediate_support": [
+        3153.1,
+        3004.79
+      ],
+      "major_support": [
+        2992.24,
+        2855.95
+      ]
+    },
+    "volume_analysis": {
+      "current_volume": 3538555,
+      "avg_volume_20d": 2459800,
+      "volume_trend": "Above average by 44%",
+      "interpretation": "Moderate volume"
+    },
+    "key_observations": [
+      "Short-term downtrend confirmed by price below EMA 20 and EMA 50.",
+      "MACD is bearish, with the MACD line below the signal line.",
+      "RSI is in the neutral zone but trending downwards.",
+      "Price is trading below the middle Bollinger Band, indicating bearish pressure.",
+      "Current volume is above average, suggesting increased activity during the price decline."
+    ]
+  },
+  "technical_analysis_2": null,
+  "market_intel_analysis": {
+    "score": 75,
+    "overall_sentiment": "POSITIVE",
+    "sentiment_trend": "Improving",
+    "news_analysis": {
+      "score": 75,
+      "sentiment": "positive",
+      "article_count_7d": 10,
+      "positive_count": 8,
+      "neutral_count": 2,
+      "negative_count": 0,
+      "key_headlines": [
+        "TCS Shares Rise After Q3 Results, Higher-Than Anticipated Dividend",
+        "TCS Announces \u20b957 Dividend for Q3, Surpasses Market Expectations with Special Payout",
+        "TCS Q3 results: Revenue from operations rises 5% YoY, company declares Rs 57 dividend per equity sha",
+        "Buy Tata Consultancy Services; target of Rs 4040: Prabhudas Lilladher"
+      ],
+      "summary": "Recent news surrounding TCS is overwhelmingly positive, driven by its Q3 results and a higher-than-anticipated dividend payout, including a special dividend. While some brokerages flag weak growth visibility, the market reaction appears to be favoring the dividend news and positive analyst recommendations."
+    },
+    "social_sentiment": null,
+    "analyst_consensus": {
+      "score": 60,
+      "consensus": "Positive",
+      "total_analysts": 1,
+      "average_target_price": 4040.0,
+      "target_upside_percent": null
+    },
+    "market_context": {
+      "market_regime": "Volatile",
+      "nifty_trend": "Slightly Negative",
+      "sector_performance": {},
+      "fii_activity": null,
+      "dii_activity": null,
+      "vix": {
+        "value": 11.32
+      }
+    },
+    "catalysts": [
+      {
+        "event": "Q3 Dividend Payout",
+        "date": null,
+        "days_away": null,
+        "expected_impact": "Positive short-term sentiment boost due to special dividend."
+      },
+      {
+        "event": "Analyst Ratings and Price Targets",
+        "date": null,
+        "days_away": null,
+        "expected_impact": "Positive sentiment from buy recommendations and price targets."
+      }
+    ],
+    "concerns": [
+      "Weak growth visibility flagged by some brokerages.",
+      "Overall market sentiment is slightly negative."
+    ],
+    "opportunities": [
+      "Positive reaction to Q3 dividend payout and special dividend.",
+      "Analyst recommendations suggesting a positive outlook."
+    ]
+  },
+  "risk_analysis": {
+    "risk_score": 55,
+    "risk_rating": "HIGH",
+    "risk_level": "HIGH",
+    "stock_risk_metrics": {
+      "beta": 1.3,
+      "interpretation": "The stock is expected to be 30% more volatile than the market. A beta greater than 1 indicates higher systematic risk.",
+      "volatility_30d": 17.93,
+      "volatility_rating": "Low",
+      "max_drawdown_1y": 9.45,
+      "max_drawdown_3y": null,
+      "sharpe_ratio": -0.19,
+      "sortino_ratio": null
+    },
+    "liquidity_analysis": {
+      "avg_daily_volume": 2706290,
+      "avg_daily_value": 8650000000.0,
+      "liquidity_rating": "High",
+      "impact_cost_10L": null,
+      "impact_cost_1Cr": null
+    },
+    "position_sizing": {
+      "portfolio_value_assumed": 1000000.0,
+      "conservative": {
+        "percentage": "2-3%",
+        "amount_range": [
+          20000.0,
+          30000.0
+        ],
+        "shares": [
+          6,
+          9
+        ],
+        "rationale": "Conservative allocation for a moderate risk appetite, considering the stock's beta and moderate risk profile."
+      },
+      "moderate": {
+        "percentage": "3-5%",
+        "amount_range": [
+          30000.0,
+          50000.0
+        ],
+        "shares": [
+          9,
+          15
+        ],
+        "rationale": "Moderate allocation for a moderate risk appetite, balancing potential returns with the stock's risk metrics."
+      },
+      "aggressive": {
+        "percentage": "5-8%",
+        "amount_range": [
+          50000.0,
+          80000.0
+        ],
+        "shares": [
+          15,
+          25
+        ],
+        "rationale": "Aggressive allocation for a moderate risk appetite, acknowledging the stock's liquidity and sector but with a higher risk tolerance."
+      },
+      "recommended": {
+        "percentage": "3-5%",
+        "amount_range": [
+          30000,
+          50000
+        ],
+        "shares": [
+          9,
+          15
+        ],
+        "rationale": "Recommended position sizing for a moderate risk appetite, aligning with the stock's overall risk profile and liquidity."
+      }
+    },
+    "scenario_analysis": {
+      "market_crash_minus20": {
+        "potential_loss_percentage": 25.6,
+        "potential_loss_amount": 256000,
+        "notes": "Assumes a 20% market decline and a beta of 1.3, leading to a stock decline of approximately 26%."
+      },
+      "sector_correction_minus10": {
+        "potential_loss_percentage": 13.0,
+        "potential_loss_amount": 130000,
+        "notes": "Assumes a 10% sector decline and a beta of 1.3, leading to a stock decline of approximately 13%."
+      },
+      "stop_loss_triggered": {
+        "potential_loss_percentage": 2.47,
+        "potential_loss_amount": 24700,
+        "notes": "Triggered at the stop loss level of \u20b93271.6, representing a loss from the current price of \u20b93192.5."
+      }
+    },
+    "risk_factors": [
+      {
+        "factor": "Systematic Risk (Beta)",
+        "severity": "High",
+        "description": "Beta of 1.3 indicates higher sensitivity to overall market movements, increasing risk during market downturns."
+      },
+      {
+        "factor": "Concentration Risk",
+        "severity": "Moderate",
+        "description": "While TCS is a large-cap, over-allocation can lead to significant portfolio impact if the stock underperforms."
+      },
+      {
+        "factor": "Sectoral Headwinds",
+        "severity": "Moderate",
+        "description": "Potential for sector-specific challenges impacting IT companies, such as changes in global IT spending or regulatory shifts."
+      },
+      {
+        "factor": "Execution Risk",
+        "severity": "Moderate",
+        "description": "Challenges in executing large projects, maintaining client relationships, or adapting to new technologies can impact performance."
+      }
+    ],
+    "risk_mitigation": [
+      "Diversify across different sectors and asset classes to reduce concentration risk.",
+      "Utilize stop-loss orders to limit potential downside in case of adverse price movements.",
+      "Regularly review portfolio allocation to ensure it aligns with risk appetite and market conditions.",
+      "Monitor sector-specific news and global economic trends that could impact the IT industry."
+    ]
+  },
+  "synthesized_recommendation": {
+    "recommendation": "HOLD",
+    "confidence": 65,
+    "confidence_level": "MEDIUM",
+    "action_plan": {
+      "primary_action": "HOLD",
+      "entry_strategy": "No new positions recommended at this time. Monitor for potential entry points.",
+      "tranche_1": null,
+      "tranche_2": null,
+      "targets": [],
+      "stop_loss": {
+        "price": 2900.0,
+        "loss_percent": 8.99,
+        "type": "Trailing Stop Loss",
+        "rationale": "To protect capital in case of a significant downturn, while allowing for upside participation."
+      },
+      "position_size": {
+        "current_allocation": "Existing positions should be held.",
+        "new_allocation": "0% of portfolio"
+      },
+      "holding_period": "Medium-term (2-12 months)",
+      "investment_type": "Swing Trading"
+    },
+    "reasoning": {
+      "why_buy": [
+        "Strong long-term fundamentals in the IT sector.",
+        "TCS is a market leader with a robust business model and consistent revenue growth.",
+        "Potential for sustained demand in digital transformation services."
+      ],
+      "key_concerns": [
+        "Current price action shows a lack of immediate upward momentum.",
+        "Recent price decline (-2.31%) suggests short-term selling pressure.",
+        "Potential for increased competition and margin pressures in the IT services sector."
+      ],
+      "what_could_go_wrong": [
+        "A broader market downturn could pull TCS stock lower despite its strong fundamentals.",
+        "Slower-than-expected growth in digital transformation spending.",
+        "Execution risks related to new service offerings or market expansion.",
+        "Geopolitical events impacting global IT spending."
+      ],
+      "why_confidence": [
+        "The weighted average score of 60.0 indicates a balanced view across different analytical approaches.",
+        "The 'Confidence Adjustment: +10' suggests that despite some mixed signals, the overall outlook is not entirely negative.",
+        "Fundamental strength provides a floor for the stock, while technicals and sentiment suggest caution for immediate entry."
+      ]
+    },
+    "score_breakdown": {
+      "fundamental_score": 50,
+      "technical_score": 50,
+      "market_intel_score": 50,
+      "risk_score": 50,
+      "weighted_average": 50.0,
+      "final_confidence": 60
+    },
+    "agent_consensus": {
+      "fundamental_analysis": "Neutral (Score: 50/100, Recommendation: N/A)",
+      "technical_analysis": "Neutral (Score: 50/100, Signal: N/A)",
+      "market_intelligence": "Neutral (Score: 50/100, Sentiment: N/A)",
+      "risk_analysis": "Neutral (Score: 50/100, Risk Rating: N/A)"
+    },
+    "monitoring_plan": {
+      "technical_indicators": [
+        "Monitor for a clear upward trend confirmation on daily and weekly charts.",
+        "Watch for a break above key resistance levels (e.g., \u20b93300-\u20b93400 range).",
+        "Observe volume patterns for signs of accumulation."
+      ],
+      "fundamental_news": [
+        "Track quarterly earnings reports for revenue and profit growth trends.",
+        "Monitor management commentary on future growth drivers and industry outlook.",
+        "Stay updated on any significant contract wins or new service launches."
+      ],
+      "market_sentiment": [
+        "Observe broader market sentiment towards IT stocks.",
+        "Track analyst ratings and price target revisions."
+      ],
+      "macroeconomic_factors": [
+        "Monitor global economic indicators that could impact IT spending."
+      ]
+    },
+    "user_suitability": {
+      "risk_appetite": "Moderate - The HOLD recommendation aligns with a moderate risk appetite, avoiding aggressive new positions while retaining existing exposure.",
+      "investment_horizon": "Medium-term - The strategy focuses on holding existing positions and waiting for clearer signals, suitable for a medium-term outlook.",
+      "portfolio_value": "\u20b91,000,000 - The position sizing recommendation (holding existing, no new) is appropriate for this portfolio size, emphasizing capital preservation and opportunistic entry."
+    }
+  },
+  "errors": [],
+  "progress": [
+    "\u2705 Stock data collected (125 days historical)",
+    "\u2705 News data collected",
+    "\u2705 Market data collected",
+    "\u2705 Fundamental: 75/100",
+    "\u2705 Technical: 35/100",
+    "\u2705 Market Intel: 75/100",
+    "\u2705 Risk: 55/100",
+    "\u2705 Recommendation generated"
+  ],
+  "start_time": "2026-01-14T14:21:38.421376+00:00",
+  "execution_path": "full_analysis"
+}
