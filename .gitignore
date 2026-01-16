@@ -151,3 +151,4 @@ exports/
 # API Keys (just in case)
 api_keys.py
 secrets.py
+stockenv
