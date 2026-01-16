@@ -111,11 +111,6 @@ Bot responds with welcome message? ✅ **You're ready!**
 
 ## 🐛 Quick Fixes
 
-### Error: "SessionLocal not found"
-```bash
-# Add this line to database/queries.py after self.engine = create_engine():
-self.SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=self.engine)
-```
 
 ### Error: "Failed to add stock"
 ```bash
