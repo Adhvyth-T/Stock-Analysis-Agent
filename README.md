@@ -608,8 +608,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/stock-analysis-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/stock-analysis-bot/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Adhvyth-T/Stock-Analysis-Agent/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Adhvyth-T/Stock-Analysis-Agent/discussions)
 - **Email**: reddyadhvyth@gmail.com
 
 ---

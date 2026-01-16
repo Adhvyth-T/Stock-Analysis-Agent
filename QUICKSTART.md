@@ -145,7 +145,7 @@ python -c "from database.queries import DatabaseManager; DatabaseManager().creat
 
 - **Documentation**: See [README.md](README.md)
 - **Troubleshooting**: See [README.md#troubleshooting](README.md#troubleshooting)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/stock-analysis-bot/issues)
+- **Issues**: [GitHub Issues](https://github.com/Adhvyth-T/Stock-Analysis-Agent/issues)
 
 ---
 
