@@ -580,6 +580,7 @@ pytest
 - [ ] **Paper Trading** - Virtual trading simulation
 - [ ] **Tax Calculator** - Capital gains calculation
 - [ ] **API Endpoints** - REST API for integrations
+- [ ] **Public Bot** - Public Telegram bot for testing and usage
 
 ### Known Limitations
 
