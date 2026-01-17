@@ -363,36 +363,13 @@ daily_job = scheduler.add_job(
 
 ### Common Issues
 
-**1. "SessionLocal not found" Error**
-```python
-# Fix: Add to database/queries.py __init__ method
-self.SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=self.engine)
-```
 
-**2. "Failed to add stock" Error**
+**1. "Failed to add stock" Error**
 ```bash
 # Fix: Create database tables
 python -c "from database.queries import DatabaseManager; DatabaseManager().create_tables()"
 ```
-
-**3. "DetachedInstanceError" in SQLAlchemy**
-```python
-# Fix: Add session.expunge() before returning objects
-session.expunge(portfolio)
-return portfolio
-```
-
-**4. Portfolio analysis returns None**
-```python
-# Fix: Ensure get_stock_data is awaited
-stock_data = await self.yahoo_collector.get_stock_data(ticker)
-```
-
-**5. Circular import in queries.py**
-```python
-# Fix: Remove self-import
-# Delete line: from database.queries import DatabaseManager
-```
+`
 
 ### Debug Mode
 
