@@ -90,7 +90,7 @@ A sophisticated multi-agent AI system designed specifically for the Indian stock
    ```bash
    git clone https://github.com/yourusername/stock-analysis-bot.git
    cd stock-analysis-bot
-   ```
+   ``` 
 
 2. **Create virtual environment**
    ```bash
