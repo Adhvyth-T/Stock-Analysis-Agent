@@ -549,6 +549,7 @@ pytest
 
 ### Upcoming Features
 
+- [ ] **Public Bot** - Public Telegram bot for testing and usage
 - [ ] **Options Analysis** - F&O analysis for derivatives
 - [ ] **Backtesting** - Historical performance simulation
 - [ ] **Alerts System** - Price alerts, pattern alerts
@@ -557,7 +558,6 @@ pytest
 - [ ] **Paper Trading** - Virtual trading simulation
 - [ ] **Tax Calculator** - Capital gains calculation
 - [ ] **API Endpoints** - REST API for integrations
-- [ ] **Public Bot** - Public Telegram bot for testing and usage
 
 ### Known Limitations
 
